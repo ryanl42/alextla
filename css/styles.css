@@ -12163,3 +12163,15 @@ section#contact form#contactForm :-ms-input-placeholder {
 .lightbox-gallery .item {
     padding-bottom: 30px;
 }
+.small-img {
+    width: 52px;
+    height: 52px;
+}
+.small-img-us {
+    width: 64px;
+    height: 64px;
+}
+.small-img-de {
+    width: 58px;
+    height: 58px;
+}
